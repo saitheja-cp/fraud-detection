@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+seaborn
+streamlit
+=======
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+seaborn
+streamlit
+>>>>>>> e355e1f (🚀 Initial commit: Fraud Detection with Streamlit app)

@@ -1,0 +1,80 @@
+# =========================
+# ✅ Python build artifacts
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# =============================
+# ✅ Virtual Environments
+# =============================
+.venv/
+env/
+ENV/
+venv/
+env.bak/
+venv.bak/
+
+# =========================
+# ✅ Jupyter/IPython
+# =========================
+.ipynb_checkpoints/
+profile_default/
+ipython_config.py
+
+# =========================
+# ✅ Logs, caches, reports
+# =========================
+*.log
+*.csv
+*.pkl
+*.npy
+*.h5
+*.json
+*.sqlite
+*.db
+.cache/
+.tox/
+.nox/
+.mypy_cache/
+.pytest_cache/
+
+# =========================
+# ✅ OS / Editor / Tools
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# =========================
+# ✅ Streamlit
+# =========================
+.streamlit/secrets.toml
+
+# =========================
+# ✅ Project folders to ignore large content but keep structure
+# =========================
+
+# Ignore all files in dataset/ but keep folder via .gitkeep
+dataset/*
+!dataset/.gitkeep
+
+# Same for outputs/
+outputs/*
+!outputs/.gitkeep
+
+# Same for saved models
+saved_models/*
+!saved_models/.gitkeep
+
+# =========================
+# ✅ Optional
+# =========================
+# Uncomment below if using Poetry or Pipenv
+# poetry.lock
+# Pipfile.lock
