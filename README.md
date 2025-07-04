@@ -19,7 +19,7 @@ The dataset consists of transaction records stored as daily `.pkl` files.
 
 Due to size constraints, the full dataset is hosted externally:
 
-👉 [Download Dataset from Google Drive](https://drive.google.com/drive/folders/1_333wmwuT9ickBOAS_ChOPxewpG21kiT?usp=sharing)
+👉 [⬇️ Download dataset.zip](https://drive.google.com/uc?export=download&id=1CPSnT7qCBMOEQbD8r-RuUWib6Q555Mi7)
 
 Please download and extract it into the `dataset/` folder:
 
