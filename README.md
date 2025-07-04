@@ -12,6 +12,7 @@ To classify whether a transaction is **fraudulent or legitimate** using core tra
 ---
 
 ## 📦 Dataset
+extract zip file in dataset folder
 
 The dataset consists of transaction records stored as daily `.pkl` files.
 
